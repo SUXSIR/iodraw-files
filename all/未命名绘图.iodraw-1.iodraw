@@ -7,8 +7,8 @@
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-179" value="Mindmap" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;labelBackgroundColor=none;strokeColor=#D4E1F5;strokeWidth=1;fillColor=none;fontFamily=Comic Sans MS;fontSize=9;swimlaneLine=0;dashed=1;collapsible=0;" parent="1" vertex="1">
           <mxGeometry x="84" y="80" width="659" height="441" as="geometry" />
         </mxCell>
-        <mxCell id="xCrwamNtwONyNjUiNp21-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
-          <mxGeometry x="40" y="196" width="120" height="60" as="geometry" />
+        <mxCell id="xCrwamNtwONyNjUiNp21-10" value="专利布局" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry x="40" y="196" width="91" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
