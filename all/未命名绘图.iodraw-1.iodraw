@@ -16,11 +16,8 @@
         <mxCell id="xCrwamNtwONyNjUiNp21-12" value="专利布局" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry x="171" y="196" width="91" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="xCrwamNtwONyNjUiNp21-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="xCrwamNtwONyNjUiNp21-10" target="xCrwamNtwONyNjUiNp21-18" parent="Gr0Zq-AI6Quabplr0KPa-179">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xCrwamNtwONyNjUiNp21-18" value="专利布局" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
-          <mxGeometry x="161" y="54" width="91" height="33" as="geometry" />
+        <mxCell id="xCrwamNtwONyNjUiNp21-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry x="156.5" y="105" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
