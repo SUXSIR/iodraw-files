@@ -10,6 +10,18 @@
         <mxCell id="xCrwamNtwONyNjUiNp21-10" value="专利布局" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
           <mxGeometry x="40" y="196" width="91" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="xCrwamNtwONyNjUiNp21-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="xCrwamNtwONyNjUiNp21-10" target="xCrwamNtwONyNjUiNp21-12" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xCrwamNtwONyNjUiNp21-12" value="专利布局" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry x="171" y="196" width="91" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="xCrwamNtwONyNjUiNp21-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="xCrwamNtwONyNjUiNp21-10" target="xCrwamNtwONyNjUiNp21-14" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xCrwamNtwONyNjUiNp21-14" value="专利布局" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-179">
+          <mxGeometry x="171" y="239" width="91" height="33" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
