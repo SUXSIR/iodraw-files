@@ -7,10 +7,12 @@
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-179" value="Mindmap" style="swimlane;html=1;startSize=13;horizontal=1;containerType=tree;labelBackgroundColor=none;strokeColor=#D4E1F5;strokeWidth=1;fillColor=none;fontFamily=Comic Sans MS;fontSize=9;swimlaneLine=0;dashed=1;collapsible=0;" parent="1" vertex="1">
           <mxGeometry x="225" y="69" width="659" height="441" as="geometry" />
         </mxCell>
-        <mxCell id="xCrwamNtwONyNjUiNp21-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Gr0Zq-AI6Quabplr0KPa-179" source="xCrwamNtwONyNjUiNp21-10" target="xCrwamNtwONyNjUiNp21-22">
+        <mxCell id="xCrwamNtwONyNjUiNp21-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="Gr0Zq-AI6Quabplr0KPa-179" source="xCrwamNtwONyNjUiNp21-10" target="xCrwamNtwONyNjUiNp21-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="86" y="176" />
+              <mxPoint x="131" y="196" />
+              <mxPoint x="140" y="196" />
+              <mxPoint x="140" y="176" />
               <mxPoint x="151" y="176" />
               <mxPoint x="151" y="136" />
             </Array>
